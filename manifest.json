@@ -1,0 +1,13 @@
+{
+    "manifest_version":3,
+    "name":"csi_help",
+    "version":"1.0",
+    "description":"extension para almacenar los tags de trabajo",
+    "icons":{
+        "128":"csi-chrome.png"
+    },
+    "action":{
+        "default_popup":"pop.html"
+    }
+
+}
